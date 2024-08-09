@@ -1,0 +1,13 @@
+.btnsWrap {
+  display: flex;
+  gap: 8px;
+}
+.optionBtn {
+  min-width: 90px;
+  background-color: #ff00ff;
+}
+.optionBtn:hover,
+.optionBtn:focus {
+  background-color: #d900ffae;
+  outline: transparent;
+}
